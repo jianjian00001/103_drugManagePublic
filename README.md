@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1Tu4y1Y7Hn/](https://www.bilibili.com/video/BV1Tu4y1Y7Hn/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+vue的药店管理系统(源码+数据库)103
 
@@ -87,7 +87,7 @@
 
 6. 在编译器中打开terminal，执行npm install 依赖下载完成后执行 npm run serve,执行成功后会显示前台访问地址
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 
